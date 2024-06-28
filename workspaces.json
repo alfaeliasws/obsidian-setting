@@ -1,0 +1,199 @@
+{
+  "workspaces": {
+    "Youtube Note": {
+      "main": {
+        "id": "d8233fa1ab9ede2f",
+        "type": "split",
+        "children": [
+          {
+            "id": "866f04c7cb8ccd6a",
+            "type": "split",
+            "children": [
+              {
+                "id": "fec22de842d2f110",
+                "type": "leaf",
+                "dimension": 71.83098591549296,
+                "state": {
+                  "type": "media-view",
+                  "state": {
+                    "info": {
+                      "host": 0,
+                      "id": "GQXVWtNkeZw",
+                      "iframe": "https://www.youtube.com/embed/GQXVWtNkeZw",
+                      "src": "https://www.youtube.com/watch?v=GQXVWtNkeZw",
+                      "hash": ""
+                    },
+                    "currentTime": 213.07708411253358
+                  }
+                },
+                "group": "d95c9f102482411e"
+              },
+              {
+                "id": "f068eba4ac567cd2",
+                "type": "leaf",
+                "dimension": 28.169014084507044,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. Second Brain/R&D/1. Fleeting Notes/Test.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "d95c9f102482411e"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "274d7bec625bf378",
+        "type": "split",
+        "children": [
+          {
+            "id": "dd130c45a0374776",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e0ecfe7a7f70382",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "28efada427547e66",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b5aa890caf550ed5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Bible-Depth",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "2b0d1c987664da10",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "545300fb82f87d43",
+        "type": "split",
+        "children": [
+          {
+            "id": "665b3c1d4375c4da",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6a36ae3a3c3fca02",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "03f18f076ba93d5a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0. Second Brain/R&D/1. Fleeting Notes/Test.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "072c495ff59fd971",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e5fd568b89b17976",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0. Second Brain/R&D/1. Fleeting Notes/Test.md"
+                  }
+                }
+              },
+              {
+                "id": "ae6df4c9d9704edd",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0. Second Brain/R&D/1. Fleeting Notes/Test.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "9e8e5043846989af",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "91c73106289108fb",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "f068eba4ac567cd2"
+    }
+  },
+  "active": "Youtube Note"
+}

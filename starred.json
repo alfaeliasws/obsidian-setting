@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "WORKFLOW FILE",
+      "path": "Workflow/Workflow.md"
+    },
+    {
+      "type": "file",
+      "title": "RACIP Genesis Tree",
+      "path": "1. RACIP/RACIP/A. RACIP Root/1. RACIP Roadmap Content/RACIP Genesis Tree.md"
+    },
+    {
+      "type": "file",
+      "title": "Hotkey Documentation",
+      "path": "Second Brain/Automation Note/Hotkey Documentation.md"
+    },
+    {
+      "type": "file",
+      "title": "Ecclesiastes 11 9-2022",
+      "path": "Second Brain/0. Relationship With God/Daily Devotion/Ecclesiastes 11 9-2022.md"
+    },
+    {
+      "type": "file",
+      "title": "Jeremiah 39 1-2023",
+      "path": "Second Brain/0. Relationship With God/Daily Devotion/Jeremiah 39 1-2023.md"
+    },
+    {
+      "type": "file",
+      "title": "Ezekiel 20 3-2023",
+      "path": "Second Brain/0. Relationship With God/Daily Devotion/Ezekiel 20 3-2023.md"
+    }
+  ]
+}
